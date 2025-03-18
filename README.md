@@ -24,3 +24,7 @@ my skills :)
     <img src="https://skillicons.dev/icons?i=git,aws,docker,figma,html,css,java,js,react,kali,linux" />
   </a>
 </p>
+
+<br><br>
+[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/karisssha)
+[![](https://img.shields.io/badge/playlists-ff66ab)](https://open.spotify.com/user/nissi-)
