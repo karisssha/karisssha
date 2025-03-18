@@ -10,7 +10,7 @@
     🌀 "Solo el cambio es permanente."
 </pre>
 <br><br>
-[![My Skills]
+my skills :)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,docker,figma,html5,java,js,react,kali,linux" />
