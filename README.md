@@ -1,4 +1,4 @@
-<p align="center">
+<p align="start">
   <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=35&pause=1000&color=E88CF7&width=435&lines=%E2%9D%A4%EF%B8%8E%E2%82%8A+%E2%8A%B9+hello+hello!+I'm+Karisha.+;happy+to+see+you+here...;have+a+nice+day++%E2%9D%A4%EF%B8%8E%E2%82%8A+%E2%8A%B9" alt="Typing SVG">
 </p>
 
