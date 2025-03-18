@@ -4,12 +4,14 @@
 
 <br><br>
 <pre>
-    💻 Cybersecurity + full stack dev
+    💻 Cybersecurity + full stack student
     💿 Music • DJing • Fashion • LiveCoding • Art
     🐾 Guila 🐱 
     🌀 "Solo el cambio es permanente."
 </pre>
 <br><br>
+![bat](https://github.com/user-attachments/assets/3072ceac-e9bb-4561-a82e-feb05c89a1d4)
+
 my skills :)
 <p align="center">
   <a href="https://skillicons.dev">
